@@ -1,51 +1,69 @@
-<p align="center">
-  <img src="banner.png" alt="Tafara Rugara Banner" style="border-radius: 12px;">
-</p>
+# 👋🏽 Hey, I'm Tafara — AI Systems Engineer  
 
-<h1 align="center">Hi 👋, I'm Tafara Rugara</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS Certified | Terraform | CI/CD</h3>
+I design and build end-to-end systems that connect **cloud infrastructure**, **AI models**, and **automation workflows** into real products that solve real problems.
 
----
+What started as a pursuit of a Junior Cloud Engineer role quickly evolved into something bigger: I was entrusted to build and deploy **AI-powered systems from scratch** — from backend APIs and orchestration layers to vector databases and LLM integrations.
 
-🌟 **About Me**
-
-I'm a passionate AWS Cloud Engineer based in Zimbabwe, focused on building **scalable, secure, and cost-efficient cloud solutions**. With a strong foundation in AWS and DevOps practices, I thrive on solving real-world infrastructure challenges using:
-
-- Infrastructure as Code (Terraform, CloudFormation)
-- CI/CD (GitHub Actions)
-- Serverless (Lambda, API Gateway, DynamoDB)
-- Docker & Containerization
-- Monitoring & Networking (CloudFront, Load Balancing, Route 53, IAM)
+I thrive at the intersection of **DevOps, backend engineering, and applied AI** — where voice turns into insight, workflows become autonomous, and data becomes intelligence.
 
 ---
 
-🎓 **Certification**
+## 🧠 Core Project: Voice Memory Assistant
 
-- ✅ AWS Certified Cloud Practitioner
+A production-grade, AI-powered system that captures raw voice notes, processes them through a semantic pipeline, and enables **meaning-based search** and retrieval.
 
----
+### 🚀 What It Does
+- 🎙️ **Capture:** Record and upload audio directly from the browser.  
+- 🧠 **Process:** Transcribe audio, enrich it with a Large Language Model (Gemini), and structure the content intelligently.  
+- 🔎 **Search:** Store embeddings in **Qdrant** for semantic search — retrieving information based on meaning, not just keywords.
 
-🧰 **Tools & Technologies**
+### 🏗️ Architecture
+- 🌐 **Frontend:** Simple browser interface built with HTML, CSS, JavaScript, leveraging `navigator.mediaDevices.getUserMedia` for voice capture.  
+- 🐍 **Backend:** Python Flask API handling requests, routing, and serving results.  
+- 🧠 **Processing Layer:** `memory_manager.py` converts text to embeddings with `sentence-transformers` and communicates with **Qdrant** for vector storage.  
+- ⚙️ **Orchestration & AI:** Integrated with **n8n** for event-driven workflows and **Gemini LLM** for structuring and enrichment.  
 
-| Cloud | IaC | CI/CD | Containers | Scripting | OS | Security |
-|-------|-----|-------|------------|-----------|----|----------|
-| EC2, S3, RDS, Lambda, VPC | Terraform, CloudFormation | GitHub Actions | Docker, ECS | Bash | Ubuntu, Amazon Linux | IAM, Route 53, Load Balancer |
-
----
-
-📺 **My YouTube Channel: [Tech with Tafara](https://youtube.com/@techwithtaf?si=TgVH4gvqyqZBEc7u)**  
-I publish hands-on tutorials, AWS tips, and DevOps walkthroughs.
-
----
-
-📫 **Let's Connect**
-
-- ✉️ Email: [tfrsuperfx@gmail.com](mailto:tfrsuperfx@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/tafara-rugara-0627b819b](https://www.linkedin.com/in/tafara-rugara-0627b819b)
-- 💻 GitHub: [github.com/98Devops](https://github.com/98Devops)
+📦 **Repo:** [Voice Memory Assistant](https://github.com/yourusername/voice2vector)  
+🎥 **Demo:** [Watch on YouTube](https://youtube.com/@yourchannel)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=98Devops&show_icons=true&theme=tokyonight" alt="Tafara's GitHub Stats" />
-</p>
+## 🧰 Skills & Tools
+
+### ☁️ Cloud & DevOps
+- DigitalOcean, Ubuntu Server, Docker, Docker Compose, Linux Administration  
+- System Architecture, Workflow Automation, API Orchestration (n8n)  
+- CI/CD Fundamentals, Syncthing File Synchronization  
+
+### 🧠 AI & Machine Learning
+- LLM Integration (Gemini via OpenRouter, Whisper)  
+- Semantic Search & Text Embedding (`sentence-transformers`)  
+- Vector Database Management (Qdrant)  
+- Context Engineering, Prompt Design  
+
+### 🐍 Backend Development
+- Python, Flask, RESTful API Design  
+- JSON Payload Handling, Routing, Data Processing  
+
+### 🌐 Frontend Development
+- HTML5, CSS3, JavaScript (Vanilla)  
+- Media Capture APIs (`getUserMedia`), Fetch API (async requests)
+
+### 🧪 Other
+- Problem Solving, System Design, Debugging, Independent Learning  
+- Using LLMs as Development Copilots for debugging, context generation, and architectural decision-making  
+
+---
+
+## 📌 What I'm Looking For  
+I'm actively seeking ** opportunities** as an **AI Systems Engineer** or **Cloud & Automation Engineer**, where I can bring this mix of skills to help teams build and scale intelligent systems.
+
+If you're working on LLM-powered platforms, automation pipelines, or semantic search tools, let's connect.
+
+---
+
+📫 **Reach out:**  
+- LinkedIn: https://www.linkedin.com/in/tafara-rugara-0627b819b/ 
+- GitHub: https://github.com/98Devops 
+- YouTube: https://www.youtube.com/@techwithtaf
+

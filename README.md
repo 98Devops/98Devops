@@ -1,4 +1,4 @@
-# 👋🏽 Hey, I'm Tafara — AI Systems Engineer  
+# 👋🏽 Hey, I'm Tafara —Jr Cloud Engineer 
 
 I design and build end-to-end systems that connect **cloud infrastructure**, **AI models**, and **automation workflows** into real products that solve real problems.
 

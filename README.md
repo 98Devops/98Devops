@@ -1,11 +1,12 @@
 # 👋🏽 Hey, I'm Tafara —Jr Cloud & DevOps Engineer 
-![Banner](banner.png).
+![Banner](banner.png)
 
-"I automate deployments, accelerate Software delivery and releases.
+I automate deployments, accelerate Software delivery and releases.
 
-"I build scalable, cost-efficient infrastructure"
+I build scalable, cost-efficient infrastructure
 
-I thrive at the intersection of **DevOps, backend engineering, and applied AI** — where workflows become autonomous, and business value is met.
+I thrive at the intersection of **DevOps,Cloud ,backend engineering, and applied AI** — where workflows become autonomous, and business value is met.
+
 Check out my project repos : https://github.com/98Devops?tab=repositories
 ---
 
@@ -35,4 +36,5 @@ Check out my project repos : https://github.com/98Devops?tab=repositories
 - LinkedIn: https://www.linkedin.com/in/tafara-rugara-0627b819b/ 
 - GitHub: https://github.com/98Devops 
 - YouTube: https://www.youtube.com/@techwithtaf
+- Email: tfrsuperfx@gmail.com
 

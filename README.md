@@ -1,4 +1,5 @@
 # 👋🏽 Hey, I'm Tafara —Jr Cloud & DevOps Engineer 
+![Banner](banner.png)
 
 I design and build end-to-end systems that connect **cloud infrastructure**, **AI models**, and **automation workflows** into real products that solve real problems.
 
@@ -13,13 +14,15 @@ Portfolio Site
 - DigitalOcean, AWS , Docker, Docker Compose, Linux 
 - Kubernetes, Terrafrom, Github Actions, Version Control,   
 - System Architecture, Workflow Automation, API Orchestration (n8n)  
-- CI/CD Fundamentals, Syncthing File Synchronization  
+- CI/CD Fundamentals, Syncthing File Synchronization
+- API Intergration and Development  
+
 
 ### 🧠 AI & Machine Learning
 - LLM Integration (Gemini via OpenRouter, Whisper)  
 - Semantic Search & Text Embedding (`sentence-transformers`)  
 - Vector Database Management (Qdrant)  
-- Context Engineering, Prompt Design  
+- Context Engineering, Prompt Design 
 
 ### 🧪 Other
 - Problem Solving, System Design, Debugging, Independent Learning  

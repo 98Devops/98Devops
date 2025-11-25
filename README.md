@@ -1,9 +1,9 @@
 # 👋🏽 Hey, I'm Tafara —Jr Cloud & DevOps Engineer 
 ![Banner](banner.png)
 
-I automate deployments, accelerate Software delivery and releases.
+I automate deployments, accelerate Software delivery and releases to end users reliably.
 
-I build scalable, cost-efficient infrastructure
+I build scalable, cost-efficient cloud infrastructure
 
 I thrive at the intersection of **DevOps,Cloud ,backend engineering, and applied AI** — where workflows become autonomous, and business value is met.
 

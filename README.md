@@ -1,7 +1,9 @@
 # 👋🏽 Hey, I'm Tafara —Jr Cloud & DevOps Engineer 
-![Banner](banner.png)
+![Banner](banner.png).
 
-I design and build end-to-end systems that connect **cloud infrastructure**, **AI models**, and **automation workflows** into real products that solve real problems.
+"I automate deployments, accelerate Software delivery and releases.
+
+"I build scalable, cost-efficient infrastructure"
 
 I thrive at the intersection of **DevOps, backend engineering, and applied AI** — where workflows become autonomous, and business value is met.
 Check out my project repos : https://github.com/98Devops?tab=repositories

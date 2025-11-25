@@ -3,8 +3,7 @@
 
 I design and build end-to-end systems that connect **cloud infrastructure**, **AI models**, and **automation workflows** into real products that solve real problems.
 
-I thrive at the intersection of **DevOps, backend engineering, and applied AI** — where voice turns into insight, workflows become autonomous, and data becomes intelligence.
-
+I thrive at the intersection of **DevOps, backend engineering, and applied AI** — where workflows become autonomous, and business value is met.
 Check out my project repos : https://github.com/98Devops?tab=repositories
 ---
 

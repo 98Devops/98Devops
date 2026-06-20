@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Tafara's Banner" />
+</p>
+
 # 👋🏽 Hey, I'm Tafara —Jr Cloud & DevOps Engineer 
 I build the systems that run quietly, and I keep them that way.
 
@@ -28,4 +32,3 @@ Tech Stack & Tools
 - GitHub: https://github.com/98Devops 
 - YouTube: https://www.youtube.com/@techwithtaf
 - Email: tfrsuperfx@gmail.com
-

@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Tafara's Banner" />
+  <a href="https://github.com/98Devops">
+    <img src="https://raw.githubusercontent.com/98Devops/98Devops/main/banner.png" alt="Tafara's Banner" style="max-width:100%;height:auto;" />
+  </a>
 </p>
 
 # 👋🏽 Hey, I'm Tafara —Jr Cloud & DevOps Engineer 

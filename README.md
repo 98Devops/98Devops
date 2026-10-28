@@ -67,8 +67,4 @@ I design, build and maintain the automation behind business operations: **CRM li
 
 **Certification:** AWS Certified Cloud Practitioner (2024) · AWS Solutions Architect – Associate in progress.
 
-## Get in touch
 
-Hiring for automation, CRM integration or AI workflow work? Email **[tfrsuperfx@gmail.com](mailto:tfrsuperfx@gmail.com)** or message me on [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/). I document builds on [Tech With Tafara](https://www.youtube.com/@techwithtaf).
-
-[PDF CV](https://tafara.netlify.app/documents/tafara-rugara-automation-engineer-cv.pdf) · [Word CV](https://tafara.netlify.app/documents/tafara-rugara-automation-engineer-cv.docx) · [Portfolio](https://tafara.netlify.app)

@@ -5,7 +5,7 @@
 ### Automation Engineer
 **AI workflows · CRM automation · API integrations**
 
-Harare, Zimbabwe · UTC+2 · Available for remote contracts
+Harare, Zimbabwe | South Africa · UTC+2 · Available for remote contracts
 
 [Portfolio](https://tafara.netlify.app) · [Download CV](https://github.com/98Devops/Tafara-Rugara-Portfolio/raw/refs/heads/main/public/documents/tafara-rugara-automation-engineer-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/) · [Email](mailto:tfrsuperfx@gmail.com)
 
@@ -15,7 +15,7 @@ Harare, Zimbabwe · UTC+2 · Available for remote contracts
 
 I build and maintain the workflows behind business operations: CRM lifecycle automation, API integrations, AI pipelines, data checks and reporting. My work combines **n8n, GoHighLevel and Zapier** with **JavaScript, Python, PostgreSQL and Docker** when a workflow needs custom logic or its own service.
 
-I am looking for **remote Automation Engineer contracts** with teams in Zimbabwe, South Africa and internationally. I work from Harare and bring experience supporting international clients remotely.
+
 
 ## Work that shows how I think
 

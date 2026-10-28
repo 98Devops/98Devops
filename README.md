@@ -9,7 +9,7 @@
 
 Harare, Zimbabwe / Johannesburg, South Africa · UTC+2 · Open to remote Automation Engineer roles and contracts
 
-[Portfolio](https://tafara.netlify.app) ·  · [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/) · [Email](mailto:tfrsuperfx@gmail.com)
+[Portfolio](https://tafara.netlify.app) · [Download CV (PDF)](https://github.com/98Devops/Tafara-Rugara-Portfolio/raw/refs/heads/main/public/documents/tafara-rugara-automation-engineer-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/) · [Email](mailto:tfrsuperfx@gmail.com)
 
 </div>
 
@@ -29,7 +29,7 @@ I design, build and maintain the automation behind business operations: **CRM li
 | :--- | :--- | :--- |
 | **Munda** (tech lead) | Offline-first double-entry ledger for farm inputs (seed, fertiliser, chemicals, diesel). React + TypeScript PWA (TanStack Query, Tailwind) with a Dexie offline queue and idempotent sync; Supabase Postgres does all arithmetic in PL/pgSQL with RLS, Auth and a pg_cron self-check; Ask Munda AI assistant in a Deno Edge Function on Groq with read-only tools and an eval harness. **2,000+ tests**. | [Live demo](https://munda-mvp.netlify.app/) |
 | **RunProduce** (client, prelaunch) | Broiler operations and cashflow planner: daily flock data into harvest timing, gate-vs-bulk sales split, next-batch sizing and a projected cash calendar. Next.js + Supabase around a pure TypeScript engine (bigint cents, integer grams, typed missing-input results). | Private client repo |
-| **Patient-retention automation** | A router across Practice Better, GoHighLevel and Zapier handled one patient type and silently dropped the rest. Repaired **7 triggers** and shipped **3 lifecycle workflows**, then delivered the full system: **9 GHL workflows and 7 live Zaps**. | Client work at Clientharvest.io; detailed in my [CV](https://tafara.netlify.app/documents/tafara-rugara-automation-engineer-cv.pdf) |
+| **Patient-retention automation** | A router across Practice Better, GoHighLevel and Zapier handled one patient type and silently dropped the rest. Repaired **7 triggers** and shipped **3 lifecycle workflows**, then delivered the full system: **9 GHL workflows and 7 live Zaps**. | Client work at Clientharvest.io; detailed in my [CV](https://github.com/98Devops/Tafara-Rugara-Portfolio/raw/refs/heads/main/public/documents/tafara-rugara-automation-engineer-cv.pdf) |
 | **Delivery health intelligence** | **27-node n8n pilot** that normalizes ClickUp tasks, validates Gemini output, writes updates back and routes aggregated alerts or manual review. Shortlisted in a client evaluation. | [Workflow export and docs](https://github.com/98Devops/AI-Powered-Delivery-Health-Operations-Intelligence-System) · [Walkthrough](https://www.youtube.com/watch?v=c8ETK5kOh08) |
 | **Trevis** (paid client, live) | Replaced **4 spreadsheets** with one live system for **130+ tenants across 4 properties**: a ledger-derived coverage engine marks each tenant paid-up, expiring or overdue; nightly integrity audit, daily owner report, about **190 Vitest tests**. Delivered and paid in full. | [Source and notes](https://github.com/98Devops/trevis-app/tree/main/trevis-production) · [Live app](https://trevis.netlify.app/) |
 | **IATS** | Multi-tenant ICT asset tracking SaaS for schools, NGOs and businesses: React 18, TypeScript, Zod, TanStack Query; role-based access in PL/pgSQL RLS, append-only chain-of-custody history, QR scan workflows. | Private repo |

@@ -7,7 +7,7 @@
 
 Harare, Zimbabwe · UTC+2 · Available for remote contracts
 
-[Portfolio](https://tafara.netlify.app) · [Download CV](https://tafara.netlify.app/documents/tafara-rugara-automation-engineer-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/) · [Email](mailto:tfrsuperfx@gmail.com)
+[Portfolio](https://tafara.netlify.app) · [Download CV](https://github.com/98Devops/Tafara-Rugara-Portfolio/raw/refs/heads/main/public/documents/tafara-rugara-automation-engineer-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/) · [Email](mailto:tfrsuperfx@gmail.com)
 
 </div>
 
@@ -21,7 +21,7 @@ I am looking for **remote Automation Engineer contracts** with teams in Zimbabwe
 
 | Work | Problem and implementation | Evidence |
 | :--- | :--- | :--- |
-| **CRM lifecycle automation** | Diagnosed a patient-retention router dropping patient types across Practice Better, GoHighLevel and Zapier. Repaired **7 triggers** and delivered **3 lifecycle workflows**, plus refill reminders and pipeline automation. | Commercial work at Clear Elevation; described in my [CV](https://tafara.netlify.app/documents/tafara-rugara-automation-engineer-cv.pdf). |
+| **CRM lifecycle automation** | Diagnosed a patient-retention router dropping patient types across Practice Better, GoHighLevel and Zapier. Repaired **7 triggers** and delivered **3 lifecycle workflows**, plus refill reminders and pipeline automation. | Commercial work at Clear Elevation; described in my [CV](https://github.com/98Devops/Tafara-Rugara-Portfolio/raw/refs/heads/main/public/documents/tafara-rugara-automation-engineer-cv.pdf). |
 | **Trevis property operations** | Replaced **4 spreadsheets** with one live system for **130+ tenants across 4 properties**. Ledger-derived rent coverage, automated integrity checks and daily owner reporting; approximately **190 Vitest tests** support the engine. | [Source and engineering notes](https://github.com/98Devops/trevis-app/tree/main/trevis-production) · [Live application](https://trevis.netlify.app/) |
 | **Delivery health intelligence** | Built a **27-node n8n pilot** that normalizes ClickUp tasks, validates Gemini output, updates records and routes aggregated alerts or manual review. | [Workflow export and documentation](https://github.com/98Devops/AI-Powered-Delivery-Health-Operations-Intelligence-System) · [Walkthrough](https://www.youtube.com/watch?v=c8ETK5kOh08) |
 | **Voice-to-Vector** | Built Flask endpoints for storing structured voice-note text and retrieving related notes with vector embeddings and semantic search. | [Python API and memory layer](https://github.com/98Devops/Voice-to-vector) |
@@ -62,4 +62,4 @@ I document engineering projects on [Tech With Tafara](https://www.youtube.com/@t
 
 For workflow automation, CRM integration or AI systems contracts, reach me at **[tfrsuperfx@gmail.com](mailto:tfrsuperfx@gmail.com)**.
 
-[PDF CV](https://tafara.netlify.app/documents/tafara-rugara-automation-engineer-cv.pdf) · [Word CV](https://tafara.netlify.app/documents/tafara-rugara-automation-engineer-cv.docx) · [Portfolio](https://tafara.netlify.app) · [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/)
+[PDF CV](https://github.com/98Devops/Tafara-Rugara-Portfolio/raw/refs/heads/main/public/documents/tafara-rugara-automation-engineer-cv.pdf) · [Word CV](https://github.com/98Devops/Tafara-Rugara-Portfolio/raw/refs/heads/main/public/documents/tafara-rugara-automation-engineer-cv.docx) · [Portfolio](https://tafara.netlify.app) · [LinkedIn](https://www.linkedin.com/in/tafara-rugara-0627b819b/)

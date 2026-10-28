@@ -1,0 +1,104 @@
+<svg width="1900" height="530" viewBox="0 0 1900 530" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#0E3B60" stroke-width="1" opacity="0.8"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0C6C97" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#37D9FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0C6C97" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1900" height="530" fill="#031D34"/>
+  <rect width="1900" height="530" fill="url(#grid)"/>
+
+  <g opacity="0.9" stroke="#1EC9FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#softGlow)">
+    <path d="M0 290L210 290L270 240L310 240L310 185L420 185"/>
+    <path d="M420 185L420 145H510V145"/>
+    <path d="M510 145L570 145"/>
+    <circle cx="420" cy="185" r="14" fill="none"/>
+    <circle cx="510" cy="145" r="10" fill="none"/>
+    <circle cx="570" cy="145" r="8" fill="none"/>
+    <rect x="200" y="265" width="86" height="52" rx="7" fill="none"/>
+    <circle cx="276" cy="291" r="8" fill="none"/>
+    <circle cx="138" cy="348" r="8" fill="#1EC9FF"/>
+
+    <path d="M1600 175H1750V175"/>
+    <path d="M1735 175V128H1820"/>
+    <path d="M1820 128V92H1900"/>
+    <circle cx="1735" cy="175" r="10" fill="none"/>
+    <circle cx="1820" cy="128" r="10" fill="none"/>
+    <circle cx="1820" cy="92" r="8" fill="none"/>
+    <path d="M1495 248H1710V248"/>
+    <path d="M1710 248V205H1808"/>
+    <path d="M1808 205V187H1900"/>
+    <circle cx="1710" cy="248" r="12" fill="none"/>
+    <circle cx="1808" cy="205" r="9" fill="none"/>
+    <rect x="1750" y="70" width="86" height="42" rx="7" fill="none"/>
+    <circle cx="1750" cy="90" r="8" fill="none"/>
+
+    <path d="M1734 350H1900"/>
+    <path d="M1765 350V470H1900"/>
+    <circle cx="1765" cy="350" r="10" fill="none"/>
+    <circle cx="1765" cy="470" r="8" fill="none"/>
+    <rect x="1630" y="395" width="84" height="48" rx="8" fill="none"/>
+    <circle cx="1630" cy="418" r="7" fill="none"/>
+    <path d="M1345 372H1555V372"/>
+    <path d="M1540 372V445H1622"/>
+    <circle cx="1540" cy="372" r="10" fill="none"/>
+    <circle cx="1622" cy="445" r="7" fill="none"/>
+
+    <path d="M1325 136V76H1460"/>
+    <circle cx="1325" cy="136" r="8" fill="none"/>
+    <circle cx="1460" cy="76" r="7" fill="none"/>
+
+    <path d="M1180 430H1260V430"/>
+    <circle cx="1260" cy="430" r="6" fill="#1EC9FF"/>
+    <correspondingPath d=""/>
+  </g>
+
+  <g opacity="0.9">
+    <circle cx="260" cy="240" r="3" fill="#09D7FF"/>
+    <circle cx="420" cy="185" r="6" fill="#09D7FF"/>
+    <circle cx="510" cy="145" r="6" fill="#09D7FF"/>
+    <circle cx="570" cy="145" r="6" fill="#09D7FF"/>
+    <circle cx="1765" cy="350" r="6" fill="#09D7FF"/>
+    <circle cx="1540" cy="372" r="6" fill="#09D7FF"/>
+    <circle cx="1808" cy="205" r="6" fill="#09D7FF"/>
+    <circle cx="1735" cy="175" r="6" fill="#09D7FF"/>
+    <circle cx="1820" cy="128" r="6" fill="#09D7FF"/>
+  </g>
+
+  <g>
+    <text x="950" y="230" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="98" font-weight="800" fill="#F5F7FA" letter-spacing="-2">Automation Engineer</text>
+    <text x="950" y="312" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" fill="#31D6FF">
+      <tspan fill="#31D6FF">n8n</tspan>
+      <tspan fill="#F5F7FA"> • </tspan>
+      <tspan fill="#31D6FF">GoHighLevel</tspan>
+      <tspan fill="#F5F7FA"> • </tspan>
+      <tspan fill="#31D6FF">Zapier</tspan>
+    </text>
+    <text x="950" y="385" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="500" fill="#F5F7FA" letter-spacing="0.5">
+      <tspan>AI workflows</tspan>
+      <tspan fill="#31D6FF"> • </tspan>
+      <tspan>CRM automation</tspan>
+      <tspan fill="#31D6FF"> • </tspan>
+      <tspan>API integrations</tspan>
+      <tspan fill="#31D6FF"> • </tspan>
+      <tspan>Full-stack developer</tspan>
+    </text>
+  </g>
+
+  <g opacity="0.45" stroke="url(#glow)" stroke-width="2">
+    <path d="M70 0V530"/>
+    <path d="M1830 0V530"/>
+  </g>
+</svg>

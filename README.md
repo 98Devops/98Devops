@@ -4,8 +4,8 @@
   </a>
 </p>
 
-# 👋🏽 Hey, I'm Tafara —Jr Cloud & DevOps Engineer 
-I build the systems that run quietly, and I keep them that way.
+# 👋🏽 Hey, I'm Tafara —AI automation | Full stack Dev | Cloud & DevOps Engineer 
+I build the systems that run quietly, and I keep them that wa.
 
 Tech Stack & Tools
 ### ☁️ Cloud & DevOps

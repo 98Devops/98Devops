@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./automation-engineer-banner.png" alt="Automation Engineer · n8n · GoHighLevel · Zapier — AI workflows · CRM automation · API integrations · Full-stack developer" width="100%" />
+
 # Tafara Rugara
 
 ### Automation Engineer · n8n · GoHighLevel · Zapier

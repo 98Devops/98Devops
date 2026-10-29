@@ -21,7 +21,7 @@ I design, build and maintain the automation behind business operations: **CRM li
 
 **Automation Engineer at Clientharvest.io** (April 2026 – present, remote). GoHighLevel CRM architecture, pipelines, funnels and lifecycle automation for agency clients.
 
-**Full-Stack & Systems Engineer at Mero Tech** (December 2025 – present). Paid client systems (Trevis, RunProduce) and my own products (Munda, Ops Engine, Synapse, IATS).
+**Full-Stack & Systems Engineer at Mero Tech** (December 2025 – present). Paid client systems (Trevis, RunProduce) including cleint websites and my own products in development for commercial distribution and personal use (Munda, Ops Engine, Synapse, IATS).
 
 ## Work that shows how I think
 
